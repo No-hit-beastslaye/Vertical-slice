@@ -41,3 +41,5 @@ Even though we had an unfinished product, most of the back end scripting was don
 It also made me realise to try and check in more then once per day to see how something is going, and to see how they're doing. If they're getting frustrated, or relaxing, etc etc.
 
 Furthermore, thanks to this project, I realised that I need to get more used to using Trello, and to update it as soon as I finish something, and acknowledge it in the group, so that I can help other people with their tasks, or receive a new one.
+
+Thanks to some documentation flaws that some of the people had in the project, it taught me to comment everything that someone might not understand in the blink of an eye, to help make the code more readable.
