@@ -2,6 +2,10 @@
 
 Main repo; https://github.com/sedzjad/VerticalSlice2
 
+Genre; Stealth.
+
+Platform: PC.
+
 In this repository, you could find the code that I wrote for the project.
 
 This project had 3 sprints in total, each being 2 weeks long. It's also been made in a team of 4 developers and 2 artists.
